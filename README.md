@@ -1,3 +1,4 @@
 # bootstrap_task
-DEPI Task: web using bootstrap
+DEPI Task: bootstrap web
+<br>
 demo: https://mohammedalaadev.github.io/bootstrap_task/
